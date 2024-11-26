@@ -17,7 +17,7 @@
     "express": "^4.17.0",
     "jwt-simple": "^0.5.5",
     "moment": "^2.24.0",
-    "mongoose": "^5.5.9",
+    "mongoose": "^5.7.5",
     "mongoose-extend-schema": "^1.0.0",
     "socket.io": "^2.2.0"
   },
